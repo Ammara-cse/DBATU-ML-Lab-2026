@@ -35,7 +35,7 @@ This repository contains Python scripts, Jupyter Notebooks, datasets, setup guid
    git clone [https://github.com/Ammara-cse/Machine-Learning-Lab.git](https://github.com/Ammara-cse/Machine-Learning-Lab.git)
    cd Machine-Learning-Lab
 
-```
+
 
 2. **Create and Activate Virtual Environment:**
 ```bash
@@ -73,7 +73,7 @@ jupyter notebook
 * **Department:** Department of Computer Science Engineering
 * **Faculty Guide:** Prof. Harsha Ma'am
 * **University:** Dr. Babasaheb Ambedkar Technological University (DBATU), Lonere
-* **Academic Year:** 2025–2026
+* **Academic Year:** 2026–2027
 
 ```
 
